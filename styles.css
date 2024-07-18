@@ -32,7 +32,7 @@
   min-width: 288px;
   min-height: 200px;
   border-radius: 10px;
-  margin-top: 0;
+  margin-top: 5px;
 }
 .card-content {
   display: flex;
@@ -45,7 +45,6 @@
   font-weight: 900;
   font-size: 14px;
   padding: 4px 12px;
-  border-radius: 5px;
   background-color: hsl(47, 88%, 63%);
   width: max-content;
   font-family: "Figtree", sans-serif;
